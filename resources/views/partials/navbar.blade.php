@@ -3,10 +3,10 @@
     <nav class="navbar navbar-expand-lg bg-transparent disable-fixed" data-header-hover="light"> 
         <div class="container-fluid"> 
             <div class="col-auto col-lg-2 me-lg-0 me-auto">
-                <a class="navbar-brand" href="demo-finance.html">
-                    <img src="images/demo-finance-logo-white.png" data-at2x="images/demo-finance-logo-white@2x.png" alt="" class="default-logo">
-                    <img src="images/demo-finance-logo-white.png" data-at2x="images/demo-finance-logo-white@2x.png" alt="" class="alt-logo">
-                    <img src="images/demo-finance-logo-black.png" data-at2x="images/demo-finance-logo-black@2x.png" alt="" class="mobile-logo">
+                <a class="navbar-brand" href="https://www.iwu.ac.id/">
+                    <img src="images/gambar/logoiwu.png" alt="" class=" default-logo img-fluid" style="height: 100px;">
+                    <img src="images/gambar/logoiwu.png" alt="" class="alt-logo">
+                    <img src="images/gambar/logoiwu.png" alt="" class="mobile-logo">
                 </a>
             </div>
             <div class="col-auto col-lg-8 menu-order position-static">

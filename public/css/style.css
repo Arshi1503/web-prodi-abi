@@ -26,6 +26,7 @@ Table of contents
     15. Portfolio
     16. Shop
     17. Footer
+    18. Custom
 */
 /* ===================================
     01. Google font
@@ -19257,7 +19258,7 @@ footer.big-footer {
   padding-bottom: 140px;
 }
 footer .footer-logo img {
-  max-height: 30px;
+  max-height: 75px;
 }
 footer ul {
   padding: 0;

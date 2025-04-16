@@ -2,15 +2,15 @@
     <div class="container">
         <div class="row justify-content-center mb-5 xs-mb-20px">
             <div class="col-md-12 col-sm-10 text-center">
-                <h4 class="alt-font text-dark-gray fw-500 ls-minus-1px">Looking for business opportunity? <a href="mailto:info@yourdomain.com" class="text-base-color fw-500 text-decoration-line-bottom-medium">Send message</a></h4>
+                <h4 class="alt-font text-dark-gray fw-500 ls-minus-1px">Bagaimana ? Tetarik ? <a href="https://pmb.iwu.ac.id/" class="text-base-color fw-500 text-decoration-line-bottom-medium">Daftar Sekarang!</a></h4>
             </div>
         </div>
-        <div class="row justify-content-center">
+        <div class="row justify-content-center" style="flex-direction: row">
             <!-- start footer column -->
             <div class="col-lg-3 col-md-12 col-sm-6 order-4 order-lg-1 order-md-4 order-sm-3 md-mt-35px text-center text-sm-start text-md-center text-lg-start last-paragraph-no-margin">
-                <a href="demo-finance.html" class="footer-logo mb-25px sm-mb-20px d-inline-block"><img src="images/demo-finance-logo-black.png" data-at2x="images/demo-finance-logo-black@2x.png" alt=""></a>
-                <p class="mb-15px">We are trusted by more than 5000 very happy clients for finance services.</p>
-                <p>&COPY; Copyright 2024 <a href="index.html" target="_blank" class="text-decoration-line-bottom text-dark-gray fw-500">Crafto</a></p>
+                <a href="demo-finance.html" class="footer-logo mb-25px sm-mb-20px d-inline-block"><img src="images/gambar/logoiwu.png" alt="" style="width: 75px"></a>
+                <p class="mb-15px">Menjadi Universitas terdepan dalam pemajuan ilmu-ilmu pengetahuan, teknologi, seni dan pemberdayaan perempuan yang memperkokoh derajat kemanusiaan serta memiliki semangat entrepreneurship pada Tahun 2035.</p>
+                <p>&COPY; Copyright 2025 <a href="https://www.iwu.ac.id/" target="_blank" class="text-decoration-line-bottom text-dark-gray fw-500">International Women University</a></p>
             </div>
             <!-- end footer column -->
             <!-- start footer column -->
@@ -34,21 +34,18 @@
                     <li><a href="demo-finance-contact.html">Contact us</a></li>
                 </ul>
             </div>
-            <!-- end footer column -->  
+            <!-- end footer column -->
             <!-- start footer column -->
-            <div class="col-lg-3 col-md-4 col-sm-6 offset-xl-1 order-3 order-lg-4 order-md-3 order-sm-4 sm-mt-35px xs-mt-25px text-center text-sm-start">
-                <span class="alt-font fw-500 fs-20 d-block text-dark-gray mb-10px">Subscribe newsletter</span>
-                <p class="mb-30px md-mb-20px sm-mb-15px">Subscribe our newsletter to get the latest news and updates.</p>
-                <div class="d-inline-block w-100 newsletter-style-02 position-relative">
-                    <form action="email-templates/subscribe-newsletter.php" method="post" class="position-relative w-100">
-                        <input class="bg-white border-color-white w-100 form-control required box-shadow-double-large" type="email" name="email" placeholder="Enter your email">
-                        <input type="hidden" name="redirect" value="">
-                        <button class="btn submit" aria-label="submit"><i class="icon feather icon-feather-mail fs-22 text-base-color"></i></button>
-                        <div class="form-results border-radius-4px pt-5px pb-5px ps-15px pe-15px fs-14 lh-22 mt-10px w-100 text-center position-absolute d-none lh-20"></div>
-                    </form>
-                </div>
+            <div class="col-6 col-xl-2 col-lg-3 col-md-4 order-2 order-lg-3">
+                <span class="alt-font fw-500 fs-20 d-block text-dark-gray mb-10px">Customer</span>
+                <ul>                           
+                    <li><a href="demo-finance-expertise.html">Company services</a></li>
+                    <li><a href="demo-finance-about.html">Company story</a></li>
+                    <li><a href="demo-finance-news.html">Latest news</a></li>
+                    <li><a href="demo-finance-contact.html">Contact us</a></li>
+                </ul>
             </div>
-            <!-- end footer column -->                        
+            <!-- end footer column -->      
         </div> 
     </div> 
 </footer>
