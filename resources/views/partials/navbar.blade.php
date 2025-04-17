@@ -63,15 +63,9 @@
             </div>
             <div class="col-auto col-lg-2 text-end d-none d-sm-flex"> 
                 <div class="header-icon">
-                    <li class="dropdwon simple-dropdown">
-                        <div class="header-button"><a href="#contact-form" class="btn btn-very-small btn-white btn-box-shadow btn-round-edge left-icon text-transform-none popup-with-form"><i class="feather icon-feather-mail"></i>Menu</a></div>
-                        <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink_1" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a href="demo-finance-contact.html">LMS IWU</a></li>
-                        </ul>
-                    </li>
+                    <div class="header-button"><a href="#contact-form" class="btn btn-very-small btn-white btn-box-shadow btn-round-edge left-icon text-transform-none popup-with-form"><i class="feather icon-feather-mail text-gray-900"></i>Menu</a></div>
                 </div>
-                {{-- <!-- start contact form -->
+                <!-- start contact form -->
                 <div id="contact-form" class="container p-0 contact-form-style-01 position-relative text-center mfp-hide">
                     <div class="row g-0">
                         <div class="col-lg-5 cover-background md-h-600px xs-h-400px" style="background-image:url('https://via.placeholder.com/1082x1082');"></div>
@@ -104,7 +98,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- end contact form --> --}}
+                <!-- end contact form -->
             </div>
         </div>
     </nav>

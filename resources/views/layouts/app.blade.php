@@ -20,6 +20,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
     <!-- Styles -->
+    @vite('resources/css/app.css')
     <link rel="stylesheet" href="{{ asset('css/vendors.min.css') }}"/>
     <link rel="stylesheet" href="{{ asset('css/icon.min.css') }}"/>
     <link rel="stylesheet" href="{{ asset('css/style.css') }}"/>
