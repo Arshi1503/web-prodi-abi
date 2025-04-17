@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/tentang-administrasi-bisnis', function(){
+    return view('tentang-administrasi-bisnis');
+});
+
 Route::get('#', function (){
     return view('demo-finance');
 });

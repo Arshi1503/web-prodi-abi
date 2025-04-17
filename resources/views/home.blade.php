@@ -22,8 +22,7 @@
                             <!-- start breadcrumb -->
                             <div class="mt-auto justify-content-center breadcrumb breadcrumb-style-01 alt-font text-white">
                                 <ul data-anime='{ "el": "childs", "translateX": [30, 0], "opacity": [0,1], "duration": 400, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
-                                    <li><a href="demo-finance.html" class="text-white">Home</a></li>
-                                    <li>About</li>
+                                    <li class="text-white">Beranda</li>
                                 </ul>
                             </div>
                             <!-- end breadcrumb -->
@@ -48,7 +47,7 @@
                     </div>
                     <div class="col-xl-6 offset-xl-1 col-lg-6 position-relative md-mb-6 sm-mb-50px">
                         <div class="overflow-hidden text-end w-80 ms-auto animation-float" data-anime='{ "effect": "slide", "direction": "lr", "color": "#bc8947", "duration": 1000, "delay": 0 }'>
-                            <img src="images/gambar/uang.jpg" alt="" class="w-100 border-radius-5px">
+                            <img src="images/gambar/uang.jpg" alt="" class="tw-w-96 border-radius-5px">
                         </div>
                         <div class="position-absolute bottom-minus-50px w-60 atropos" data-atropos data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)" data-anime='{ "effect": "slide", "direction": "lr", "color": "#bc8947", "duration": 1000, "delay": 500 }'>
                             <div class="atropos-scale">
@@ -140,7 +139,7 @@
                     </div>
                     <div class="col-xl-6 offset-xl-1 col-lg-6 position-relative md-mb-6 sm-mb-50px">
                         <div class="overflow-hidden text-end w-80 ms-auto animation-float" data-anime='{ "effect": "slide", "direction": "lr", "color": "#bc8947", "duration": 1000, "delay": 0 }'>
-                            <img src="images/gambar/uang.jpg" alt="" class="w-100 border-radius-5px">
+                            <img src="images/gambar/foto2.jpg" alt="" class="tw-w-96 border-radius-5px">
                         </div>
                         <div class="position-absolute bottom-minus-50px w-60 atropos" data-atropos data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)" data-anime='{ "effect": "slide", "direction": "lr", "color": "#bc8947", "duration": 1000, "delay": 500 }'>
                             <div class="atropos-scale">
@@ -165,13 +164,13 @@
                 </div>
             
                 <!-- Semua item berita dimasukkan dalam satu row -->
-                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                <div class="row row-cols-1 row-cols-lg-3 g-4">
                     
                     <!-- Berita 1 -->
                     <div class="col icon-with-text-style-04 transition-inner-all">
                         <div class="feature-box bg-white h-100 justify-content-start p-4 box-shadow-quadruple-large box-shadow-quadruple-large-hover border-radius-5px">
                             <div class="mb-3" style="height: 200px; overflow: hidden; width: 100%;">
-                                <img src="images/gambar/bandung.jpg" alt="foto" class="img-fluid rounded" style="object-fit: cover; height: 100%; width: 100%;">
+                                <img src="images/gambar/iwupaster.jpg" alt="foto" class="img-fluid rounded" style="object-fit: cover; height: 100%; width: 100%;">
                             </div>
                             <div class="feature-box-content text-start px-3 py-2">
                                 <span class="d-inline-block alt-font text-dark-gray fw-500 mb-2 fs-5">Pencapaian Mahasiswa Administarsi Bisnis di Kancah internasional</span>
@@ -217,7 +216,3 @@
         </section>
         <!-- end section -->
 @endsection
-        <!-- end section -->
-        <!-- start scroll progress -->
-        
-        <!-- end scroll progress -->

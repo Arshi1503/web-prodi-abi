@@ -19410,3 +19410,8 @@ footer .footer-navbar .nav-item:last-child a {
 }
 
 /* 18. CUSTOM */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .custom-w-md-50 {
+    width: 50% !important;
+  }
+}
