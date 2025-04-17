@@ -14,35 +14,37 @@
             </div>
             <!-- end footer column -->
             <!-- start footer column -->
-            <div class="col-6 col-xl-2 col-lg-3 col-md-4 offset-xl-1 order-1 order-lg-2">
-                <span class="alt-font fw-500 fs-20 d-block text-dark-gray mb-10px">Company</span>
+            <div class="col-xl-2 col-lg-3 col-md-4 offset-xl-1 order-1 order-lg-2">
+                <span class="alt-font fw-500 fs-20 d-block text-dark-gray mb-10px">Kontak</span>
                 <ul>
-                    <li><a href="demo-finance-about.html">About company</a></li>
-                    <li><a href="demo-finance-expertise.html">Company expertise</a></li>
-                    <li><a href="demo-finance-team.html">Creative people</a></li>
-                    <li><a href="demo-finance-pricing.html">Pricing plans</a></li>
+                    <li><a href="#" class="fs-14"><i class="feather icon-feather-phone-call"></i> (022) 6019845</a></li>
+                    <li><a href="#" class="fs-14"><i class="feather icon-feather-mail"></i> info@iwu.ac.id</a></li>
+                    <li><a href="https://maps.app.goo.gl/8m6fkLFbxay8rRAV8" class="fs-14"><i class="feather icon-feather-map-pin"></i> Kampus 1: Jl. Pasir Kaliki No.179, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173</a></li>
+                    <li><a href="https://maps.app.goo.gl/XzVxzyqVsKZWTv5N6" class="fs-14"><i class="feather icon-feather-map-pin"></i> Kampus 2: Jl. Raya Gading Tutuka No.18, Cingcin, Kec. Soreang, Kabupaten Bandung, Jawa Barat 40911</a></li>
+                    <li><a href="https://maps.app.goo.gl/e2J91drbB2esKqHeA" class="fs-14"><i class="feather icon-feather-map-pin"></i>  Kampus 3: Jl. Raya Soreang - Banjaran No.27 Km 2, Tanjungsari, Kec. Cangkuang, Kabupaten Bandung, Jawa Barat 40238</a></li>
+                    <li><a href="https://maps.app.goo.gl/LSpLoHomb3FbMW3H8" class="fs-14"><i class="feather icon-feather-map-pin"></i> Kampus 4: Jl. Sukasenang Raya, Cibogo, Kec. Lembang, Kabupaten Bandung Barat, Jawa Barat 40391</a></li>
+                    <li><a href="https://maps.app.goo.gl/cPstzHGRWwy63zBB6" class="fs-14"><i class="feather icon-feather-map-pin"></i> Kampus 5: Jl. PDAM No. 27 Sukagalih, Kec. Sukajadi, Kota Bandung, Jawa Barat 40163</a></li>
                 </ul>
             </div>
             <!-- end footer column -->
             <!-- start footer column -->
-            <div class="col-6 col-xl-2 col-lg-3 col-md-4 order-2 order-lg-3">
-                <span class="alt-font fw-500 fs-20 d-block text-dark-gray mb-10px">Customer</span>
+            <div class="col-xl-2 col-lg-3 col-md-4 order-2 order-lg-3">
+                <span class="alt-font fw-500 fs-20 d-block text-dark-gray mb-10px">Situs Terkait</span>
                 <ul>                           
-                    <li><a href="demo-finance-expertise.html">Company services</a></li>
-                    <li><a href="demo-finance-about.html">Company story</a></li>
-                    <li><a href="demo-finance-news.html">Latest news</a></li>
-                    <li><a href="demo-finance-contact.html">Contact us</a></li>
+                    <li><a href="https://elearning.iwu.ac.id/" class="fs-14"><i class="feather icon-feather-chevron-right"></i> LMS IWU</a></li>
+                    <li><a href="https://siakad.iwu.ac.id/login" class="fs-14"><i class="feather icon-feather-chevron-right"></i> Dashboard Mahasiswa</a></li>
+                    <li><a href="https://pmb.iwu.ac.id/" class="fs-14"><i class="feather icon-feather-chevron-right"></i> PMB IWU</a></li>
                 </ul>
             </div>
             <!-- end footer column -->
             <!-- start footer column -->
-            <div class="col-6 col-xl-2 col-lg-3 col-md-4 order-2 order-lg-3">
-                <span class="alt-font fw-500 fs-20 d-block text-dark-gray mb-10px">Customer</span>
+            <div class="col-xl-2 col-lg-3 col-md-4 order-3 order-lg-3">
+                <span class="alt-font fw-500 fs-20 d-block text-dark-gray mb-10px">Sosial Media</span>
                 <ul>                           
-                    <li><a href="demo-finance-expertise.html">Company services</a></li>
-                    <li><a href="demo-finance-about.html">Company story</a></li>
-                    <li><a href="demo-finance-news.html">Latest news</a></li>
-                    <li><a href="demo-finance-contact.html">Contact us</a></li>
+                    <li><a href="https://www.instagram.com/iwuidn/" class="fs-14"><i class="feather icon-feather-instagram"></i> iwuidn</a></li>
+                    <li><a href="https://www.youtube.com/@iwuchannel" class="fs-14"><i class="feather icon-feather-youtube"></i> IWU CHANNEL OFFICIAL</a></li>
+                    <li><a href="https://www.facebook.com/IWUIndonesia/?_rdc=1&_rdr#" class="fs-14"><i class="feather icon-feather-facebook"></i> International Women University</a></li>
+                    <li><a href="https://x.com/i/flow/login?redirect_after_login=%2Fiwuindonesia" class="fs-14"><i class="feather icon-feather-twitter"></i> Twitter</a></li>
                 </ul>
             </div>
             <!-- end footer column -->      
