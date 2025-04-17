@@ -47,12 +47,13 @@
                     </div>
                     <div class="col-xl-6 offset-xl-1 col-lg-6 position-relative md-mb-6 sm-mb-50px">
                         <div class="overflow-hidden text-end w-80 ms-auto animation-float" data-anime='{ "effect": "slide", "direction": "lr", "color": "#bc8947", "duration": 1000, "delay": 0 }'>
-                            <img src="images/gambar/uang.jpg" alt="" class="tw-w-96 border-radius-5px">
+                            <img src="images/gambar/test.jpg" alt="" class="w-80 border-radius-5px">
                         </div>
                         <div class="position-absolute bottom-minus-50px w-60 atropos" data-atropos data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)" data-anime='{ "effect": "slide", "direction": "lr", "color": "#bc8947", "duration": 1000, "delay": 500 }'>
                             <div class="atropos-scale">
                                 <div class="atropos-rotate">
                                     <div class="atropos-inner text-center">
+                                        <img class="w-100 border-radius-5px" data-atropos-offset="3" src="images/gambar/dollar2.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -120,7 +121,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 md-h-550px xs-h-400px" data-anime='{ "translateX": [0, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 100, "easing": "easeOutQuad" }'>
-                        <div class="h-100 cover-background" style="background-image: url(images/gambar/rupiah.jpg)"></div>
+                        <div class="h-100 cover-background" style="background-image: url(images/gambar/testrupia.jpg)"></div>
                     </div>
                 </div>
             </div>
