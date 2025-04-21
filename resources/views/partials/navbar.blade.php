@@ -56,7 +56,7 @@
                                   <li><a href="/tentang-visi-misi-tujuan">Visi, Misi, dan Tujuan</a></li>
                                   <li><a href="/tentang-struktur-organisasi">Struktur Organisasi</a></li>
                                   <li><a href="/tentang-fasilitas">Fasilitas</a></li>
-                                  <li><a href="demo-finance-expertise-details.html">Dosen</a></li>
+                                  <li><a href="/tentang-dosen">Dosen</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Akreditas</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Karir</a></li>
                               </ul>

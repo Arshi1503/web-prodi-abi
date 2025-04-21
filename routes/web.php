@@ -32,3 +32,7 @@ Route::get('/tentang-struktur-organisasi', function(){
 Route::get('/tentang-fasilitas', function(){ 
     return view('tentang-fasilitas');
 });
+
+Route::get('/tentang-dosen', function(){
+    return view('tentang-dosen');
+});
