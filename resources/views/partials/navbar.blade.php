@@ -58,7 +58,7 @@
                                   <li><a href="/tentang-fasilitas">Fasilitas</a></li>
                                   <li><a href="/tentang-dosen">Dosen</a></li>
                                   <li><a href="/tentang-akreditasi">Akreditas</a></li>
-                                  <li><a href="demo-finance-expertise-details.html">Karir</a></li>
+                                  <li><a href="/tentang-karir">Karir</a></li>
                               </ul>
                           </li>
                           <li class="nav-item dropdown simple-dropdown">

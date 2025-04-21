@@ -40,3 +40,7 @@ Route::get('/tentang-dosen', function(){
 Route::get('/tentang-akreditasi', function(){
     return view('tentang-akreditasi');
 });
+
+Route::get('/tentang-karir', function(){
+    return view('tentang-karir');
+});
