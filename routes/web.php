@@ -36,3 +36,7 @@ Route::get('/tentang-fasilitas', function(){
 Route::get('/tentang-dosen', function(){
     return view('tentang-dosen');
 });
+
+Route::get('/tentang-akreditasi', function(){
+    return view('tentang-akreditasi');
+});
