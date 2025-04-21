@@ -40,6 +40,7 @@
     @include('partials.footer') {{-- kalau ada footer --}}
 
     <!-- Scripts -->
+    @vite(['resources/js/app.js'])
     <script src="{{ asset('js/theme.js') }}"></script>
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/vendors.min.js"></script>

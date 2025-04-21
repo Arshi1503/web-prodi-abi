@@ -30,7 +30,7 @@
 
 </div>
 
-    <nav class="navbar navbar-expand-lg bg-transparent disable-fixed tw-pt-24 tw-pb-4 tw-shadow-sm mt-3" data-header-hover="light"> 
+    <nav class="navbar navbar-expand-lg bg-transparent disable-fixed tw-pb-4 tw-shadow-sm mt-3" data-header-hover="light"> 
         <div class="container-fluid tw-flex tw-items-center tw-justify-between"> 
           <div class="col-auto">
             <a class="navbar-brand" href="https://www.iwu.ac.id/">
@@ -53,7 +53,7 @@
                               <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink_1" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                               <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
                                   <li><a href="/tentang-administrasi-bisnis">Tentang Administrasi Bisnis</a></li>
-                                  <li><a href="demo-finance-expertise-details.html">Visi, Misi, dan Tujuan</a></li>
+                                  <li><a href="/tentang-visi-misi-tujuan">Visi, Misi, dan Tujuan</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Struktur Organisasi</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Fasilitas</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Dosen</a></li>

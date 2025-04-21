@@ -21,6 +21,6 @@ Route::get('/tentang-administrasi-bisnis', function(){
     return view('tentang-administrasi-bisnis');
 });
 
-Route::get('#', function (){
-    return view('demo-finance');
+Route::get('/tentang-visi-misi-tujuan', function (){
+    return view('tentang-visi-misi-tujuan');
 });
