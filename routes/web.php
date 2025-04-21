@@ -24,3 +24,11 @@ Route::get('/tentang-administrasi-bisnis', function(){
 Route::get('/tentang-visi-misi-tujuan', function (){
     return view('tentang-visi-misi-tujuan');
 });
+
+Route::get('/tentang-struktur-organisasi', function(){
+    return view('tentang-struktur-organisasi');
+});
+
+Route::get('/tentang-fasilitas', function(){ 
+    return view('tentang-fasilitas');
+});

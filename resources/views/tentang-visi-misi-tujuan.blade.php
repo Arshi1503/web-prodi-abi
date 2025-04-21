@@ -28,7 +28,7 @@
 <!-- end page title -->
 {{-- start card --}}
         <section>
-            <div class="tw-w-full tw-max-w-7xl tw-min-h-[600px] tw-mx-auto tw-p-6 tw-bg-gray-100 tw-shadow-lg tw-rounded-xl">
+            <div class="tw-w-full tw-max-w-7xl tw-mx-auto tw-p-6 tw-bg-gray-100 tw-shadow-lg tw-rounded-xl">
                 <h3 class="tw-mb-4 tw-text-center tw-text-black">Visi, Misi, Tujuan</h3>
                 <div class="tw-flex tw-border-b">
                   <button class="tab-button tw-px-4 tw-py-2 tw-text-[#BC8947] hover:tw-text-[#c9a06b] tw-font-semibold tw-border-b-2 tw-border-[#BC8947]" data-tab="visi">

@@ -54,7 +54,7 @@
                               <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
                                   <li><a href="/tentang-administrasi-bisnis">Tentang Administrasi Bisnis</a></li>
                                   <li><a href="/tentang-visi-misi-tujuan">Visi, Misi, dan Tujuan</a></li>
-                                  <li><a href="demo-finance-expertise-details.html">Struktur Organisasi</a></li>
+                                  <li><a href="/tentang-struktur-organisasi">Struktur Organisasi</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Fasilitas</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Dosen</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Akreditas</a></li>
