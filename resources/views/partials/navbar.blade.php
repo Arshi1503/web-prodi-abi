@@ -47,12 +47,12 @@
                 <div class="col-lg-8 tw-w-full">
                   <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                       <ul class="navbar-nav alt-font tw-gap-6">
-                          <li class="nav-item"><a href="demo-finance-about.html" class="nav-link">Beranda</a></li>
+                          <li class="nav-item"><a href="/" class="nav-link">Beranda</a></li>
                           <li class="nav-item dropdown simple-dropdown">
-                              <a href="demo-finance-expertise.html" class="nav-link">Tentang Kami</a>
+                              <a href="/tentang-administrasi-bisnis" class="nav-link">Tentang Kami</a>
                               <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink_1" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                               <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
-                                  <li><a href="demo-finance-expertise-details.html">Tentang Administrasi Bisnis</a></li>
+                                  <li><a href="/tentang-administrasi-bisnis">Tentang Administrasi Bisnis</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Visi, Misi, dan Tujuan</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Struktur Organisasi</a></li>
                                   <li><a href="demo-finance-expertise-details.html">Fasilitas</a></li>
