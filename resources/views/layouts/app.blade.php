@@ -40,12 +40,12 @@
     @include('partials.footer') {{-- kalau ada footer --}}
 
     <!-- Scripts -->
-    @vite(['resources/js/app.js'])
     <script src="{{ asset('js/theme.js') }}"></script>
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/vendors.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
     @stack('scripts')
+    @vite(['resources/js/app.js'])
 
     {{-- Scroll script --}}
     <div class="scroll-progress d-none d-xxl-block">

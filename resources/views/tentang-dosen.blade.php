@@ -27,7 +27,7 @@
         </section>
 <!-- end page title -->
 <section>
-    <div class="tw-w-full tw-max-w-7xl tw-mx-auto tw-p-6 tw-bg-gray-100 tw-shadow-lg tw-rounded-lg">
+    <div class="tw-card">
         <h3 class="tw-mb-6 tw-text-center tw-text-black">Dosen dan Staf Prodi Teknik Informatika</h3>
         
         <!-- Container Grid -->
@@ -35,26 +35,26 @@
             <!-- Card Dosen 1 -->
             <div class="tw-bg-white tw-shadow-md tw-rounded-lg tw-p-4 tw-flex tw-flex-col tw-items-center tw-relative tw-overflow-hidden">
                 <a href="#" class="tw-overflow-hidden tw-rounded-lg"><img class="tw-w-full tw-object-cover tw-rounded-lg tw-transition-transform lg:hover:tw-scale-110 hover:tw-scale-105 hover:tw-duration-700 active:tw-scale-90 hover:tw-ease-linear" src="images/gambar/foto2.jpg" alt="Dosen 1"></a>
-                <h4 class="tw-mt-4 tw-text-xl tw-text-[#BC8947]">Dr. John Doe</h4>
-                <p class="tw-text-lg tw-text-gray-600">Dosen Teknik Informatika</p>
+                <span class="tw-mt-6 tw-text-xl tw-text-[#BC8947]">Dr. John Doe</span>
+                <p class="tw-mt-2 tw-text-lg tw-text-gray-600">Dosen Teknik Informatika</p>
             </div>
 
             <div class="tw-bg-white tw-shadow-md tw-rounded-lg tw-p-4 tw-flex tw-flex-col tw-items-center tw-relative tw-overflow-hidden">
                 <a href="#" class="tw-overflow-hidden tw-rounded-lg"><img class="tw-w-full tw-object-cover tw-rounded-lg tw-transition-transform lg:hover:tw-scale-110 hover:tw-scale-105 hover:tw-duration-700 active:tw-scale-90 hover:tw-ease-linear" src="images/gambar/foto2.jpg" alt="Dosen 1"></a>
-                <h4 class="tw-mt-4 tw-text-xl tw-text-[#BC8947]">Dr. John Doe</h4>
-                <p class="tw-text-lg tw-text-gray-600">Dosen Teknik Informatika</p>
+                <span class="tw-mt-6 tw-text-xl tw-text-[#BC8947]">Dr. John Doe</span>
+                <p class="tw-mt-2 tw-text-lg tw-text-gray-600">Dosen Teknik Informatika</p>
             </div>
 
             <div class="tw-bg-white tw-shadow-md tw-rounded-lg tw-p-4 tw-flex tw-flex-col tw-items-center tw-relative tw-overflow-hidden">
                 <a href="#" class="tw-overflow-hidden tw-rounded-lg"><img class="tw-w-full tw-object-cover tw-rounded-lg tw-transition-transform lg:hover:tw-scale-110 hover:tw-scale-105 hover:tw-duration-700 active:tw-scale-90 hover:tw-ease-linear" src="images/gambar/foto2.jpg" alt="Dosen 1"></a>
-                <h4 class="tw-mt-4 tw-text-xl tw-text-[#BC8947]">Dr. John Doe</h4>
-                <p class="tw-text-lg tw-text-gray-600">Dosen Teknik Informatika</p>
+                <span class="tw-mt-6 tw-text-xl tw-text-[#BC8947]">Dr. John Doe</span>
+                <p class="tw-mt-2 tw-text-lg tw-text-gray-600">Dosen Teknik Informatika</p>
             </div>
 
             <div class="tw-bg-white tw-shadow-md tw-rounded-lg tw-p-4 tw-flex tw-flex-col tw-items-center tw-relative tw-overflow-hidden">
                 <a href="#" class="tw-overflow-hidden tw-rounded-lg"><img class="tw-w-full tw-object-cover tw-rounded-lg tw-transition-transform lg:hover:tw-scale-110 hover:tw-scale-105 hover:tw-duration-700 active:tw-scale-90 hover:tw-ease-linear" src="images/gambar/foto2.jpg" alt="Dosen 1"></a>
-                <h4 class="tw-mt-4 tw-text-xl tw-text-[#BC8947]">Dr. John Doe</h4>
-                <p class="tw-text-lg tw-text-gray-600">Dosen Teknik Informatika</p>
+                <span class="tw-mt-6 tw-text-xl tw-text-[#BC8947]">Dr. John Doe</span>
+                <p class="tw-mt-2 tw-text-lg tw-text-gray-600">Dosen Teknik Informatika</p>
             </div>
         </div>
     </div>

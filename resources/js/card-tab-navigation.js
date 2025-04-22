@@ -10,13 +10,13 @@ document.addEventListener('DOMContentLoaded', () => {
             }); 
 
             tabButtons.forEach(button => {
-                button.classList.remove('tw-text-[#BC8947]', 'tw-border-b-2', 'tw-border-[#BC8947]', 'tw-font-semibold');
-                button.classList.add('tw-text-gray-600');
+                button.classList.remove('tw-tab-nav-active');
+                button.classList.add('tw-tab-nav-deactive');
             });
 
             document.getElementById(target).classList.remove('tw-hidden');
-            button.classList.remove('tw-text-gray-600');
-            button.classList.add('tw-text-[#BC8947]', 'tw-border-b-2', 'tw-border-[#BC8947]', 'tw-font-semibold');
+            button.classList.remove('tw-tab-nav-deactive');
+            button.classList.add('tw-tab-nav-active');
         });
     });
 });

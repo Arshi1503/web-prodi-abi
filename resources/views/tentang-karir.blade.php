@@ -28,18 +28,18 @@
 <!-- end page title -->
 {{-- start card --}}
         <section>
-            <div class="tw-w-full tw-max-w-7xl tw-mx-auto tw-p-6 tw-bg-gray-100 tw-shadow-lg tw-rounded-xl">
+            <div class="tw-card">
                 <div>
-                    <h3 class="tw-mb-4 tw-text-center tw-text-black">Karir</h3>
-                    <p class="tw-mb-4 tw-text-center tw-text-gray-600">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam reprehenderit explicabo quas, atque esse architecto eaque quis exercitationem dolore pariatur eveniet? Libero alias voluptates repellat cum neque possimus, repellendus vitae.
+                    <h3 class="tw-card-title">Karir</h3>
+                    <p class="tw-card-subtitle">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam reprehenderit explicabo quas, atque esse architecto eaque quis exercitationem dolore pariatur eveniet? Libero alias voluptates repellat cum neque possimus, repellendus vitae.
                     Optio magni accusantium eveniet eos nulla mollitia impedit culpa possimus sunt. Repellat eos nam delectus facilis, ab, incidunt reiciendis, quibusdam quod temporibus doloribus odit commodi! Rem dolor quisquam accusamus laboriosam.
                     Aperiam iure ullam cupiditate laboriosam nihil ut tempora quaerat explicabo quibusdam corporis natus minus illum itaque tenetur quas recusandae, nisi consequatur temporibus quos. Asperiores harum enim ratione totam molestiae inventore!</p>
                 </div>
 
                 <div class="tab-content tw-p-4" id="tabel">
                     <div class="tw-overflow-x-auto">
-                        <table class="tw-w-full tw-text-lg tw-text-left tw-text-gray-900 tw-min-h-[400px]">
-                          <thead class="tw-text-lg tw-text-[#BC8947] tw-uppercase tw-bg-gray-200">
+                        <table class="tw-table">
+                          <thead class="tw-table-head">
                             <tr>
                               <th scope="col" class="tw-pl-3 tw-py-3">No</th>
                               <th scope="col" class="tw-py-3 tw-text-center">Sektor</th>
@@ -47,13 +47,13 @@
                             </tr>
                           </thead>
                           <tbody>
-                            <tr class="tw-bg-white tw-border-b tw-border-gray-400">
+                            <tr class="tw-table-row">
                                 <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
-                                <td class="tw-px-3 tw-py-4">	
+                                <td class="tw-px-3 tw-py-4 tw-text-justify">	
                                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis expedita voluptatum repudiandae consequuntur! Veritatis soluta placeat sint impedit necessitatibus, dicta labore architecto sed reiciendis. Nam ipsa commodi neque porro repellendus.</td>
                                 <td class="tw-px-6 tw-py-6">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed, vitae quo. Iste eum officia consequuntur, hic suscipit quaerat at ratione laborum eos obcaecati autem impedit, adipisci maiores, labore sapiente reiciendis.</td>
                             </tr>
-                            <tr class="tw-bg-white tw-border-b tw-border-gray-400 last:tw-border-0">
+                            <tr class="tw-table-row last:tw-border-0">
                               <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">2</td>
                               <td class="tw-px-6 tw-py-4">Menyelenggarakan pendidikan berkualitas di bidang informatika yang berorientasi pada perkembangan teknologi terkini dan kebutuhan industri.</td>
                               <td class="tw-px-6 tw-py-4">Menyelenggarakan pendidikan berkualitas di bidang informatika yang berorientasi pada perkembangan teknologi terkini dan kebutuhan industri.</td>

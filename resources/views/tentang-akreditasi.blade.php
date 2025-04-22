@@ -28,12 +28,16 @@
 <!-- end page title -->
 {{-- start card --}}
         <section>
-            <div class="tw-w-full tw-max-w-7xl tw-mx-auto tw-p-6 tw-bg-gray-200 tw-shadow-lg tw-rounded-xl">
+            <div class="tw-card">
                 <div>
-                    <h3 class="tw-mb-4 tw-text-center tw-text-black">Akreditasi</h3>
-                    <p class="tw-mb-4 tw-text-center tw-text-gray-600">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam reprehenderit explicabo quas, atque esse architecto eaque quis exercitationem dolore pariatur eveniet? Libero alias voluptates repellat cum neque possimus, repellendus vitae.
+                    <h3 class="tw-card-title">Akreditasi</h3>
+                    <p class="tw-card-subtitle">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam reprehenderit explicabo quas, atque esse architecto eaque quis exercitationem dolore pariatur eveniet? Libero alias voluptates repellat cum neque possimus, repellendus vitae.
                     Optio magni accusantium eveniet eos nulla mollitia impedit culpa possimus sunt. Repellat eos nam delectus facilis, ab, incidunt reiciendis, quibusdam quod temporibus doloribus odit commodi! Rem dolor quisquam accusamus laboriosam.
                     Aperiam iure ullam cupiditate laboriosam nihil ut tempora quaerat explicabo quibusdam corporis natus minus illum itaque tenetur quas recusandae, nisi consequatur temporibus quos. Asperiores harum enim ratione totam molestiae inventore!</p>
+                </div>
+
+                <div class="tw-mt-6 tw-mb-6 tw-w-full md:tw-max-w-full tw-flex tw-justify-center tw-items-center animation-float tw-overflow-hidden tw-relative" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                    <img class="tw-w-full lg:tw-w-1/2 tw-transition-transform lg:hover:tw-scale-110 hover:tw-scale-105 hover:tw-duration-500 active:tw-scale-90 hover:tw-ease-linear" src="images/gambar/bandung.jpg">
                 </div>
             </div>
         </section>
