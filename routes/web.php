@@ -52,3 +52,15 @@ Route::get('/akademi-kurikulum', function(){
 Route::get('/akademi-profil',function(){
     return view('akademi-profil');
 });
+
+Route::get('/publikasi-artikel', function(){
+    return view('publikasi-artikel');
+});
+
+Route::get('/publikasi-berita', function(){
+    return view('publikasi-berita');
+});
+
+Route::get('/publikasi-kegiatan', function(){
+    return view('publikasi-kegiatan');
+});

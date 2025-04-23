@@ -1,7 +1,7 @@
 ﻿@extends('layouts.app')
 
 
-@section('title', 'About - Administrasi Bisnis')
+@section('title', 'Beranda')
 
 @section('content')
         <!-- start cursor -->

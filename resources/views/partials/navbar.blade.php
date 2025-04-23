@@ -70,12 +70,12 @@
                               </ul>
                           </li>
                           <li class="nav-item dropdown simple-dropdown">
-                              <a href="demo-finance-pricing.html" class="nav-link">Publikasi</a>
+                              <a href="/publikasi-artikel" class="nav-link">Publikasi</a>
                               <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink_1" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                               <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
-                                  <li><a href="demo-finance-pricing.html">Artikel</a></li>
-                                  <li><a href="demo-finance-pricing.html">Berita</a></li>
-                                  <li><a href="demo-finance-pricing.html">Kegiatan</a></li>
+                                  <li><a href="/publikasi-artikel">Artikel</a></li>
+                                  <li><a href="/publikasi-berita">Berita</a></li>
+                                  <li><a href="/publikasi-kegiatan">Kegiatan</a></li>
                               </ul>
                           </li>
                           <li class="nav-item dropdown simple-dropdown">
