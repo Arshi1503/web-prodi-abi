@@ -32,7 +32,7 @@
                 <div class="col-lg-6 d-flex flex-column align-items-center text-center">
                     <!-- Foto -->
                     <div class="image-container mb-3">
-                        <img src="{{ asset('images/gambar/bandung.jpg') }}" alt="Gambar" class="img-fluid">
+                        <img src="{{ asset('images/gambar/foto2.jpg') }}" alt="Gambar" class="img-fluid">
                     </div>
 
                     <!-- Nama dan Status -->
