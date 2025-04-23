@@ -44,7 +44,7 @@
                 <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, natus.</span>
                 <span class="tw-block tw-mt-2"><span class="tw-font-semibold">Alamat: </span>Jl. Pasir Kaliki No.179, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173</span>
                 <span class="tw-block"><span class="tw-font-semibold">Kontak: </span>081723214</span>
-                <button type="button" class="tw-text-white tw-bg-[#BC8947] tw-my-3 hover:tw-bg-[#c9a06b] focus:tw-outline-none focus:tw-ring-4 focus:tw-ring-[#c9a06b] tw-font-medium tw-rounded-full tw-text-sm tw-px-5 tw-py-2.5 tw-text-center tw-me-2 tw-mb-2">Lihat Selengkapnya</button>  
+                <button type="button" class="tw-text-white tw-bg-[#BC8947] tw-my-3 hover:tw-bg-[#c9a06b] focus:tw-outline-none focus:tw-ring-4 focus:tw-ring-[#c9a06b] tw-font-medium tw-rounded-full tw-text-sm tw-px-5 tw-py-2.5 tw-text-center tw-me-2 tw-mb-2"><a class="tw-text-white" href="/detail-fasilitas/1">Lihat Selengkapnya</a></button> 
             </div>            
 
             {{-- Button --}}
@@ -68,7 +68,7 @@
                 <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, natus.</span>
                 <span class="tw-block tw-mt-2"><span class="tw-font-semibold">Alamat: </span>Jl. Pasir Kaliki No.179, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173</span>
                 <span class="tw-block"><span class="tw-font-semibold">Kontak: </span>081723214</span>
-                <button type="button" class="tw-text-white tw-bg-[#BC8947] tw-my-3 hover:tw-bg-[#c9a06b] focus:tw-outline-none focus:tw-ring-4 focus:tw-ring-[#c9a06b] tw-font-medium tw-rounded-full tw-text-sm tw-px-5 tw-py-2.5 tw-text-center tw-me-2 tw-mb-2">Lihat Selengkapnya</button>
+                <button type="button" class="tw-text-white tw-bg-[#BC8947] tw-my-3 hover:tw-bg-[#c9a06b] focus:tw-outline-none focus:tw-ring-4 focus:tw-ring-[#c9a06b] tw-font-medium tw-rounded-full tw-text-sm tw-px-5 tw-py-2.5 tw-text-center tw-me-2 tw-mb-2"><a class="tw-text-white" href="/detail-fasilitas/1">Lihat Selengkapnya</a></button>
             </div>          
         </div>
     </div>
@@ -89,7 +89,7 @@
                 <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, natus.</span>
                 <span class="tw-block tw-mt-2"><span class="tw-font-semibold">Alamat: </span>Jl. Pasir Kaliki No.179, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173</span>
                 <span class="tw-block"><span class="tw-font-semibold">Kontak: </span>081723214</span>
-                <button type="button" class="tw-text-white tw-bg-[#BC8947] tw-my-3 hover:tw-bg-[#c9a06b] focus:tw-outline-none focus:tw-ring-4 focus:tw-ring-[#c9a06b] tw-font-medium tw-rounded-full tw-text-sm tw-px-5 tw-py-2.5 tw-text-center tw-me-2 tw-mb-2">Lihat Selengkapnya</button>
+                <button type="button" class="tw-text-white tw-bg-[#BC8947] tw-my-3 hover:tw-bg-[#c9a06b] focus:tw-outline-none focus:tw-ring-4 focus:tw-ring-[#c9a06b] tw-font-medium tw-rounded-full tw-text-sm tw-px-5 tw-py-2.5 tw-text-center tw-me-2 tw-mb-2"><a class="tw-text-white" href="/detail-fasilitas/1">Lihat Selengkapnya</a></button>
             </div>               
         </div>
     </div>
@@ -110,7 +110,7 @@
                 <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, natus.</span>
                 <span class="tw-block tw-mt-2"><span class="tw-font-semibold">Alamat: </span>Jl. Pasir Kaliki No.179, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173</span>
                 <span class="tw-block"><span class="tw-font-semibold">Kontak: </span>081723214</span>
-                <button type="button" class="tw-text-white tw-bg-[#BC8947] tw-my-3 hover:tw-bg-[#c9a06b] focus:tw-outline-none focus:tw-ring-4 focus:tw-ring-[#c9a06b] tw-font-medium tw-rounded-full tw-text-sm tw-px-5 tw-py-2.5 tw-text-center tw-me-2 tw-mb-2">Lihat Selengkapnya</button>
+                <button type="button" class="tw-text-white tw-bg-[#BC8947] tw-my-3 hover:tw-bg-[#c9a06b] focus:tw-outline-none focus:tw-ring-4 focus:tw-ring-[#c9a06b] tw-font-medium tw-rounded-full tw-text-sm tw-px-5 tw-py-2.5 tw-text-center tw-me-2 tw-mb-2"><a class="tw-text-white" href="/detail-fasilitas/1">Lihat Selengkapnya</a></button>
             </div>             
         </div>
     </div>
@@ -131,7 +131,7 @@
                 <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, natus.</span>
                 <span class="tw-block tw-mt-2"><span class="tw-font-semibold">Alamat: </span>Jl. Pasir Kaliki No.179, Pamoyanan, Kec. Cicendo, Kota Bandung, Jawa Barat 40173</span>
                 <span class="tw-block"><span class="tw-font-semibold">Kontak: </span>081723214</span>
-                <button type="button" class="tw-text-white tw-bg-[#BC8947] tw-my-3 hover:tw-bg-[#c9a06b] focus:tw-outline-none focus:tw-ring-4 focus:tw-ring-[#c9a06b] tw-font-medium tw-rounded-full tw-text-sm tw-px-5 tw-py-2.5 tw-text-center tw-me-2 tw-mb-2">Lihat Selengkapnya</button>
+                <button type="button" class="tw-text-white tw-bg-[#BC8947] tw-my-3 hover:tw-bg-[#c9a06b] focus:tw-outline-none focus:tw-ring-4 focus:tw-ring-[#c9a06b] tw-font-medium tw-rounded-full tw-text-sm tw-px-5 tw-py-2.5 tw-text-center tw-me-2 tw-mb-2"><a class="tw-text-white" href="/detail-fasilitas/1">Lihat Selengkapnya</a></button>
             </div>               
         </div>
     </div>

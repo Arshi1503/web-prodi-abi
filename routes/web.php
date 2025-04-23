@@ -14,7 +14,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('beranda');
+});
+Route::get('/beranda', function () {
+    return view('beranda');
 });
 
 Route::get('/tentang-administrasi-bisnis', function(){
@@ -63,4 +66,28 @@ Route::get('/publikasi-berita', function(){
 
 Route::get('/publikasi-kegiatan', function(){
     return view('publikasi-kegiatan');
+});
+
+Route::get('/detail-artikel/1', function(){
+    return view('detail-artikel');
+});
+
+Route::get('/detail-berita/1', function(){
+    return view('detail-berita');
+});
+
+Route::get('/detail-kegiatan/1', function(){
+    return view('detail-kegiatan');
+});
+
+Route::get('/detail-fasilitas/1', function(){
+    return view('detail-fasilitas');
+});
+
+Route::get('/detail-kata-sambutan', function(){
+    return view('detail-kata-sambutan');
+});
+
+Route::get('/detail-dosen/1', function(){
+   return view('detail-dosen'); 
 });

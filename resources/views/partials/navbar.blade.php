@@ -21,11 +21,11 @@
   <!-- Kanan: Pilihan Bahasa -->
   <div class="tw-hidden lg:tw-flex tw-gap-2">
     <button class="tw-bg-[#BC8947] tw-px-3 tw-py-1 tw-rounded hover:tw-bg-[#c9a06b] tw-text-gray-300 hover:tw-text-gray-100 transition">
-      <img src="images/gambar/idn-flag.png" alt="" width="20">🇮🇩</button>
+      <img src="{{asset ('images/gambar/idn-flag.png')}}" alt="" width="20">🇮🇩</button>
     <button class="tw-bg-[#BC8947] tw-px-3 tw-py-1 tw-rounded hover:tw-bg-[#c9a06b] tw-text-gray-300 hover:tw-text-gray-100 transition">
-      <img src="images/gambar/eng-flag.png" alt="" width="20">🇺🇸</button>
+      <img src="{{asset ('images/gambar/eng-flag.png')}}" alt="" width="20">🇺🇸</button>
     <button class="tw-bg-[#BC8947] tw-px-3 tw-py-1 tw-rounded hover:tw-bg-[#c9a06b] tw-text-gray-300 hover:tw-text-gray-100 transition">
-      <img src="images/gambar/kr-flag.png" alt="" width="20">🇰🇷</button>
+      <img src="{{asset ('images/gambar/kr-flag.png')}}" alt=" " width="20">🇰🇷</button>
   </div>
 
 </div>
@@ -34,7 +34,7 @@
         <div class="container-fluid tw-flex tw-items-center tw-justify-between"> 
           <div class="col-auto">
             <a class="navbar-brand" href="https://www.iwu.ac.id/">
-                <img src="images/gambar/logoiwu.png" alt="Logo IWU" class="img-fluid" style="height: 100px;">
+                <img src="{{ asset('images/gambar/logoiwu.png') }}" srcset="{{ asset('images/gambar/logoiwu.png') }}" alt="Logo IWU" class="img-fluid" style="height: 100px;">
             </a>
           </div>
             <div class="col-auto col-lg-8 menu-order position-static">

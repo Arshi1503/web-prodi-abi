@@ -41,9 +41,9 @@
 
     <!-- Scripts -->
     <script src="{{ asset('js/theme.js') }}"></script>
-    <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/vendors.min.js"></script>
-    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="{{asset('js/jquery.js')}}"></script>
+    <script type="text/javascript" src="{{asset('js/vendors.min.js')}}"></script>
+    <script type="text/javascript" src="{{asset('js/main.js')}}"></script>
     @stack('scripts')
     @vite(['resources/js/app.js'])
 
