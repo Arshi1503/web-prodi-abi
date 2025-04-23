@@ -44,3 +44,11 @@ Route::get('/tentang-akreditasi', function(){
 Route::get('/tentang-karir', function(){
     return view('tentang-karir');
 });
+
+Route::get('/akademi-kurikulum', function(){
+    return view('akademi-kurikulum');
+});
+
+Route::get('/akademi-profil',function(){
+    return view('akademi-profil');
+});

@@ -66,7 +66,7 @@
                       </div>    
                 </div>
               
-                <div class="tab-content tw-p-4 tw-hidden" id="misi">
+                <div class="tab-content tw-p-4 tw-hidden" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }" id="misi">
                     <div class="tw-overflow-x-auto">
                         <table class="tw-table">
                           <thead class="tw-text-lg tw-text-[#BC8947] tw-uppercase tw-bg-slate-200">
@@ -90,7 +90,7 @@
                       </div>
                 </div>
               
-                <div class="tab-content tw-p-4 tw-hidden" id="tujuan">
+                <div class="tab-content tw-p-4 tw-hidden" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }" id="tujuan">
                     <div class="tw-overflow-x-auto">
                         <table class="tw-table">
                           <thead class="tw-text-lg tw-text-[#BC8947] tw-uppercase tw-bg-slate-200">

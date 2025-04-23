@@ -30,7 +30,7 @@
 
 </div>
 
-    <nav class="navbar navbar-expand-lg bg-transparent disable-fixed tw-pb-4 tw-shadow-sm mt-3" data-header-hover="light"> 
+    <nav class="navbar navbar-expand-lg bg-transparent disable-fixed tw-pb-4 tw-shadow-sm mt-3"> 
         <div class="container-fluid tw-flex tw-items-center tw-justify-between"> 
           <div class="col-auto">
             <a class="navbar-brand" href="https://www.iwu.ac.id/">
@@ -62,11 +62,11 @@
                               </ul>
                           </li>
                           <li class="nav-item dropdown simple-dropdown">
-                              <a href="demo-finance-team.html" class="nav-link">Akademik</a>
+                              <a href="/akademi-kurikulum" class="nav-link">Akademik</a>
                               <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink_1" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                               <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
-                                  <li><a href="demo-finance-team.html">Kurikulum</a></li>
-                                  <li><a href="demo-finance-team.html">Profil Lulusan</a></li>
+                                  <li><a href="/akademi-kurikulum">Kurikulum</a></li>
+                                  <li><a href="/akademi-profil">Profil Lulusan</a></li>
                               </ul>
                           </li>
                           <li class="nav-item dropdown simple-dropdown">
