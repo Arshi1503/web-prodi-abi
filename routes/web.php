@@ -68,6 +68,14 @@ Route::get('/publikasi-kegiatan', function(){
     return view('publikasi-kegiatan');
 });
 
+Route::get('/jadwal-penerimaan', function(){
+    return view('jadwal-penerimaan');
+});
+
+Route::get('/persyaratan-masuk', function(){
+   return view('persyaratan-masuk'); 
+});
+
 Route::get('/detail-artikel/1', function(){
     return view('detail-artikel');
 });

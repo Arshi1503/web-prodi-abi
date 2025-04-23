@@ -79,12 +79,12 @@
                               </ul>
                           </li>
                           <li class="nav-item dropdown simple-dropdown">
-                              <a href="demo-finance-contact.html" class="nav-link">Daftar Sekarang!</a>
+                              <a href="https://pmb.iwu.ac.id/" class="nav-link">Daftar Sekarang!</a>
                               <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink_1" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                               <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                  <li><a href="demo-finance-contact.html">Pendaftaran</a></li>
-                                  <li><a href="demo-finance-contact.html">Jadwal Penerimaan</a></li>
-                                  <li><a href="demo-finance-contact.html">Persyaratan Masuk</a></li>
+                                  <li><a href="https://pmb.iwu.ac.id/">Pendaftaran</a></li>
+                                  <li><a href="/jadwal-penerimaan">Jadwal Penerimaan</a></li>
+                                  <li><a href="/persyaratan-masuk">Persyaratan Masuk</a></li>
                               </ul>   
                           </li>
                       </ul>
