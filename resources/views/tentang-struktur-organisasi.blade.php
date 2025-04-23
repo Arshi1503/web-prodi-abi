@@ -2,6 +2,7 @@
 @section('title', 'Tentang Kami')
 
 @section('content')
+@vite(['resources/js/slider.js'])
 
 <!-- start page title -->
         <section class="page-title-parallax-background half-section bg-dark-gray ipad-top-space-margin" data-parallax-background-ratio="0.5" style="background-image: url(images/gambar/iwupaster.jpg)">

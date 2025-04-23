@@ -11,12 +11,12 @@
                     <div class="col-12 text-center position-relative page-title-extra-large">
                         <div class="d-flex flex-column small-screen">
                             <div class="mt-auto" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 400, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
-                                <h1 class="text-white alt-font mb-0 text-shadow-extra-large fw-500 ls-minus-1px">Akreditasi</h1>
+                                <h1 class="text-white alt-font mb-0 text-shadow-extra-large fw-500 ls-minus-1px">Kurikulum</h1>
                             </div>
                             <!-- start breadcrumb -->
                             <div class="mt-auto justify-content-center breadcrumb breadcrumb-style-01 alt-font text-white">
                                 <ul data-anime='{ "el": "childs", "translateX": [30, 0], "opacity": [0,1], "duration": 400, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
-                                    <li class="text-white">Tentang Kami</li>
+                                    <li class="text-white">Akademi</li>
                                 </ul>
                             </div>
                             <!-- end breadcrumb -->
