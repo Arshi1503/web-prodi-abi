@@ -28,7 +28,7 @@
 <!-- end page title -->
 {{-- start card --}}
         <section>
-            <div class="tw-space-y-6">
+            <div class="tw-space-y-20">
                 <div class="tw-card">
                     <div>
                         <h3 class="tw-card-title">Kurikulum Program Studi Teknik Informatika</h3>
@@ -314,7 +314,252 @@
                         </div>
                         {{-- End Table --}}
                 </div>
+                
             </div>
-        </section>
-{{-- end card --}}
+            {{-- Start Card --}}
+            <div class="tw-card" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                <h3 class="tw-card-title">Standar Kompentensi Lulusan</h3>
+                <p class="tw-card-subtitle"> Kompetensi lulusan Program Studi Teknik Informatika dirancang untuk mencerminkan visi, misi, tujuan, dan sasaran program studi. Kompetensi ini mencakup aspek utama yang mencirikan bidang teknologi informasi dan keunggulan program studi, serta aspek tambahan yang memperkaya keahlian lulusan. Selain itu, kompetensi ini dirumuskan sesuai dengan capaian pembelajaran yang mengacu pada Kerangka Kualifikasi Nasional Indonesia (KKNI), sehingga lulusan memiliki keterampilan dan pengetahuan yang relevan dengan perkembangan industri dan kebutuhan masyarakat. </p>
+                {{-- Start Table--}}
+                <div class="tw-p-4">
+                    <div class="tw-overflow-x-auto">
+                        <table class="tw-table">
+                          <thead class="tw-table-head">
+                            <tr>
+                              <th scope="col" class="tw-pl-3 tw-py-3">No</th>
+                              <th scope="col" class="tw-pr-6 tw-py-3 tw-text-center">Deskripsi</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr class="tw-table-row">
+                                <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                <td class="tw-px-3 tw-py-4 tw-text-justify">	
+                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis expedita voluptatum repudiandae consequuntur! Veritatis soluta placeat sint impedit necessitatibus, dicta labore architecto sed reiciendis. Nam ipsa commodi neque porro repellendus.</td>
+                            </tr>
+                            <tr class="tw-table-row last:tw-border-0">
+                              <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">2</td>
+                              <td class="tw-px-3 tw-py-4 tw-text-justify">	
+                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis expedita voluptatum repudiandae consequuntur! Veritatis soluta placeat sint impedit necessitatibus, dicta labore architecto sed reiciendis. Nam ipsa commodi neque porro repellendus.</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                </div>
+                {{-- End Table--}}
+                {{-- End Card --}}
+                {{-- Start Card --}}
+                <div class="tw-card" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                    <h3 class="tw-card-title">Capaian Pembelajaran Lulusan (CPL)</h3>
+                    <p class="tw-card-subtitle">Capaian Pembelajaran Lulusan (CPL) Program Studi Teknik Informatika Universitas Wanita Internasional dirumuskan untuk memastikan bahwa lulusan memiliki kemampuan yang sesuai dengan standar nasional dan internasional. Capaian ini mencakup aspek sikap, pengetahuan, keterampilan umum, dan keterampilan khusus yang diperlukan untuk berkembang dalam bidang teknologi informasi serta berkontribusi pada masyarakat dan industri digital.</p>
+                    {{-- Start Table--}}
+                    <div class="tw-p-4">
+                        <div class="tw-overflow-x-auto">
+                            <table class="tw-table">
+                              <thead class="tw-table-head">
+                                <tr>
+                                  <th scope="col" class="tw-pl-3 tw-py-3">No</th>
+                                  <th scope="col" class="tw-pr-6 tw-py-3 tw-text-center">Deskripsi</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr class="tw-table-row">
+                                    <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                    <td class="tw-px-3 tw-py-4 tw-text-justify">	
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis expedita voluptatum repudiandae consequuntur! Veritatis soluta placeat sint impedit necessitatibus, dicta labore architecto sed reiciendis. Nam ipsa commodi neque porro repellendus.</td>
+                                </tr>
+                                <tr class="tw-table-row">
+                                    <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                    <td class="tw-px-3 tw-py-4 tw-text-justify">	
+                                    Lorem ipsum</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+                        {{-- End Table --}}
+                        {{-- Start Tab Nav --}}
+                        <div class="tw-tab-nav tw-flex tw-flex-wrap tw-gap-2 tw-justify-center tw-p-2 tw-rounded-md">
+                            <button class="tab-button tw-tab-nav-active" data-tab="sikap">Sikap</button>
+                            <button class="tab-button tw-tab-nav-deactive" data-tab="pengetahuan">Pengetahuan</button>
+                            <button class="tab-button tw-tab-nav-deactive" data-tab="keterampilan-umum">Keterampilan Umum</button>
+                            <button class="tab-button tw-tab-nav-deactive" data-tab="keterampilan-khusus">Keterampilan Khusus</button>
+                        </div>
+                        {{-- End Table Nav --}}
+                        {{-- Start Tab Content --}}
+                            {{-- Start Table Content --}}
+                        <div class="tab-content tw-p-4" id="sikap" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                            <div class="tw-overflow-x-auto">
+                                <table class="tw-table">
+                                    <thead class="tw-table-head">
+                                        <tr>
+                                            <th scope="col" class="tw-pl-3 tw-py-3">No</th>
+                                            <th scope="col" class="tw-pl-3 tw-py-3 tw-text-center">Indikator</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="tw-table-row">
+                                            <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                            <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                            </td>
+                                        </tr>
+                                        <tr class="tw-table-row">
+                                            <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                            <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                            {{-- Start Table Content --}}
+                        <div class="tab-content tw-p-4 tw-hidden" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }" id="pengetahuan">
+                            <div class="tw-overflow-x-auto">
+                                <table class="tw-table">
+                                    <thead class="tw-table-head">
+                                        <tr>
+                                            <th scope="col" class="tw-pl-3 tw-py-3">No</th>
+                                            <th scope="col" class="tw-pl-3 tw-py-3 tw-text-center">Indikator</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="tw-table-row">
+                                            <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                            <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                            </td>
+                                        </tr>
+                                        <tr class="tw-table-row">
+                                            <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                            <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                            {{-- End Table Content --}}
+                            {{-- Start Table Content --}}
+                        <div class="tab-content tw-p-4 tw-hidden" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }" id="keterampilan-umum">
+                            <div class="tw-overflow-x-auto">
+                                <table class="tw-table">
+                                    <thead class="tw-table-head">
+                                        <tr>
+                                            <th scope="col" class="tw-pl-3 tw-py-3">No</th>
+                                            <th scope="col" class="tw-pl-3 tw-py-3 tw-text-center">Indikator</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="tw-table-row">
+                                            <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                            <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                            </td>
+                                        </tr>
+                                        <tr class="tw-table-row">
+                                            <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                            <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                            {{-- End Table Content --}}
+                            {{-- Start Table Content --}}
+                        <div class="tab-content tw-p-4 tw-hidden" data-anime="{ &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 400, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeOutQuad&quot; }" id="keterampilan-khusus">
+                            <div class="tw-overflow-x-auto">
+                                <table class="tw-table">
+                                    <thead class="tw-table-head">
+                                        <tr>
+                                            <th scope="col" class="tw-pl-3 tw-py-3">No</th>
+                                            <th scope="col" class="tw-pl-3 tw-py-3 tw-text-center">Indikator</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="tw-table-row">
+                                            <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                            <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                            </td>
+                                        </tr>
+                                        <tr class="tw-table-row">
+                                            <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                            <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                            {{-- End Table Content --}}
+                    <p class="tw-card-subtitle"> Lulusan Program Studi Teknik Informatika diharapkan mampu mencapai kompetensi sebagai berikut: </p>
+                    <div class="tw-overflow-x-auto">
+                        <table class="tw-table">
+                            <thead class="tw-table-head">
+                                <tr>
+                                    <th scope="col" class="tw-pl-3 tw-py-3">No</th>
+                                    <th scope="col" class="tw-pl-3 tw-py-3 tw-text-center">Deskripsi</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="tw-table-row">
+                                    <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                    <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                    </td>
+                                </tr>
+                                <tr class="tw-table-row">
+                                    <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                    <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                    {{-- End Card --}}
+                    {{-- Start Card --}}
+                <div class="tw-card">
+                    <h3 class="tw-card-title">Sasaran Kualitas Dosen, Mahasiswa dan Lulusan</h3>
+                    <div class="tw-overflow-x-auto">
+                        <table class="tw-table">
+                            <thead class="tw-table-head">
+                                <tr>
+                                    <th scope="col" class="tw-pl-3 tw-py-3">No</th>
+                                    <th scope="col" class="tw-pl-3 tw-py-3 tw-text-center">Deskripsi</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="tw-table-row">
+                                    <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                    <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                    </td>
+                                </tr>
+                                <tr class="tw-table-row">
+                                    <td class="tw-px-6 tw-py-4 tw-font-medium tw-text-gray-900">1</td>
+                                    <td class="tw-px-3 tw-py-4 tw-text-justify">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo quod magni quam, eos qui pariatur voluptates voluptatibus obcaecati blanditiis similique sunt ratione dolorum, deleniti quibusdam molestias architecto, nobis adipisci?
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                    {{-- End Card --}}
+                {{-- Start Card --}}
+                <div class="tw-card">
+                    <h3 class="tw-card-title">Tracer Study</h3>
+                    <p class="tw-card-subtitle tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias itaque voluptas beatae nostrum rerum vero, modi autem totam similique ducimus voluptatem tenetur magnam iste recusandae corporis explicabo, cupiditate quo perspiciatis?</p>
+                </div>
+
+            </div>
+    </section>
 @endsection
