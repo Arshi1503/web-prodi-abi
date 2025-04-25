@@ -30,15 +30,15 @@
             {{-- start card --}}
             <div class="tw-card tw-mb-12">
                 <div>
-                    <h3 class="tw-card-title">Jadwal Penerimaan</h3>
-                    <p class="tw-card-subtitle">Penerimaan mahasiswa baru untuk Program Studi Teknik Informatika Universitas Wanita Internasional dilakukan secara rutin setiap tahun dengan jadwal sebagai berikut: </p>
+                    <h3 class="tw-card-title">Persyaratan Masuk</h3>
+                    <p class="tw-text-gray-600 tw-opacity-70 tw-text-justify tw-w-3/4 tw-mx-auto">Untuk dapat diterima sebagai mahasiswa Program Studi Administrasi Bisnis di Universitas Wanita Internasional, calon mahasiswa harus memenuhi persyaratan sebagai berikut:</p>
                     <div class="tw-overflow-x-auto">
                         <div class="tw-overflow-x-auto">
                             <table class="tw-table">
                               <thead class="tw-table-head">
                                 <tr>
                                   <th scope="col" class="tw-pr-6 tw-py-3 tw-text-center tw-w-1/5">No</th>
-                                  <th scope="col" class="tw-pr-6 tw-py-3 tw-text-center">Deskripsi</th>
+                                  <th scope="col" class="tw-pr-6 tw-py-3 tw-text-center">Persyaratan Masuk</th>
                                 </tr>
                               </thead>
                               <tbody>
