@@ -10,7 +10,9 @@
             <div class="circle-cursor circle-cursor-outer"></div>
         </div>
         <!-- start page title -->
-        <section class="page-title-parallax-background half-section bg-dark-gray ipad-top-space-margin" data-parallax-background-ratio="0.5" style="background-image: url(images/gambar/iwupaster.jpg)">
+        <section class="page-title-parallax-background half-section bg-dark-gray ipad-top-space-margin" data-parallax-background-ratio="0.5">
+            <img src="images/gambar/iwupaster.jpg" alt=""
+            class="tw-absolute tw-inset-0 tw-w-full tw-h-full tw-object-cover tw-z-0">
             <div class="opacity-extra-medium bg-gradient-dark-gray-brown"></div>
             <div class="container">
                 <div class="row align-items-center justify-content-center">
@@ -216,9 +218,9 @@
             
                 </div>
             </div>
-            <div class="container tw-my-">
-                <div class="row justify-content-center mb-5 xs-mb-20px">
-                    <div class="col-md-12 col-sm-10 text-center">
+            <div class="container tw-mt-5 tw-rounded-xl">
+                <div class="row justify-content-center">
+                    <div class="col-md-12 col-sm-10 text-center px-5 py-5">
                         <h4 class="alt-font text-dark-gray fw-500 ls-minus-1px">Bagaimana ? Tetarik ? <a href="https://pmb.iwu.ac.id/" class="text-base-color fw-500 text-decoration-line-bottom-medium">Daftar Sekarang!</a></h4>
                     </div>
                 </div>

@@ -38,4 +38,9 @@
         @apply tw-px-4 tw-py-2 tw-text-gray-600 hover:tw-text-[#c9a06b]
     }
     /* End Tab Navigation Components */
+    /* Start Section Component  */
+    .tw-section-dark{
+        @apply tw-border tw-border-x tw-border-[#2E2E2E] tw-bg-[#2E2E2E]
+    }
+    /* End Section Component */
 }
